@@ -1,3 +1,3 @@
 # Bai-tap-KTLT
-Bài tập môn Kỹ thuận lập trình.
-Pham Xuan Sang - 20195991
+- Bài tập môn Kỹ thuận lập trình.
+- Phạm Xuân Sang - 20195991
