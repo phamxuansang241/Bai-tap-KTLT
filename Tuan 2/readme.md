@@ -1,7 +1,7 @@
 # Bài tập tuần 2.
 1. Xử dụng file.
-- Hiển thị dữ liệu từ file.
-- Thêm dữ liệu từ file.
+- 2_1_1.cpp: Hiển thị dữ liệu từ file.
+- 2_1_2.cpp Thêm dữ liệu vafo file.
 - Cập nhật dữ liệu từ file.
 2. Rẽ nhánh và lặp.
 - Bài 1: In hết ký tự từ A-Z.
