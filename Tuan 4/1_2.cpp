@@ -14,14 +14,12 @@ int main() {
         cin >> my_array[i];
 
     sort(my_array+1, my_array+n+1);
-    for(int i = 1;i <= n;i++)
-        cout << my_array[i]<< ' ';
+    
     cout << "Enter x: ";
     cin >> x;
     int left = 1, right = n, mid = (left+right)/2;
 
     while(left != mid && right != mid) {
-        cout << mid << ' ' << left << ' ' << right << ' '<<my_array[mid] << endl;
         if(my_array[mid] > x) right = mid;
         else left = mid;
 
