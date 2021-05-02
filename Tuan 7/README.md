@@ -6,4 +6,4 @@
 
 * Cấu trúc dữ liệu danh sách (linked list):
   * Thêm, sửa, xóa, tìm kiếm một phần tử trong danh sách. [[2_1.cpp]](https://github.com/phamxuansang241/Bai-tap-KTLT/blob/main/Tuan%207/2_1.cpp)
-  * Tạo cấu trúc dữ liệu cho danh sách liên kết đơn gồm: MSSV, họ và tên, học phần, điểm
+  * Tạo cấu trúc dữ liệu cho danh sách liên kết đơn gồm: MSSV, họ và tên, học phần, điểm. [[2_2.cpp]](https://github.com/phamxuansang241/Bai-tap-KTLT/blob/main/Tuan%207/2_2.cpp)
