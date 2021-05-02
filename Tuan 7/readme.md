@@ -5,4 +5,5 @@
   * Tìm dãy con toàn dương có tổng lớn nhất. [[1_4.cpp]](https://github.com/phamxuansang241/Bai-tap-KTLT/blob/main/Tuan%207/1_4.cpp)
 
 * Cấu trúc dữ liệu danh sách (linked list):
-  * Thêm, sửa, xóa, tìm kiếm một phần tử trong danh sách.
+  * Thêm, sửa, xóa, tìm kiếm một phần tử trong danh sách. [[2_1.cpp]](https://github.com/phamxuansang241/Bai-tap-KTLT/blob/main/Tuan%207/2_1.cpp)
+  * Tạo cấu trúc dữ liệu cho danh sách liên kết đơn gồm: MSSV, họ và tên, học phần, điểm
